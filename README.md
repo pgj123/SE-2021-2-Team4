@@ -22,7 +22,7 @@ Team member Jungin Lee
 
 ## Document
 
-[Doc folder](https://github.com/pgj123/SE-2021-2-Team4/tree/main/docs)
+[Document folder](https://github.com/pgj123/SE-2021-2-Team4/tree/main/docs)
 
 ## Setup
 
